@@ -13,6 +13,12 @@ namespace TiposVarios
             uint u = 14U;
             long l = 420L;
             ulong n = 2319UL;
+
+            char spadeSymbol = '\u2660';
+            char starSymbol = '\u2605';
+            char noteSymbol = '\u266c';
+            char recycleSymbol = '\u267b';
+            char nuclearSymbol = '\u2622';
             
             
 
@@ -23,6 +29,12 @@ namespace TiposVarios
             Console.WriteLine(u);
             Console.WriteLine(l);
             Console.WriteLine(n);
+
+            Console.WriteLine(spadeSymbol);
+            Console.WriteLine(starSymbol);
+            Console.WriteLine(noteSymbol);
+            Console.WriteLine(recycleSymbol);
+            Console.WriteLine(nuclearSymbol);
 
         }
     }
