@@ -19,6 +19,9 @@ namespace TiposVarios
             char noteSymbol = '\u266c';
             char recycleSymbol = '\u267b';
             char nuclearSymbol = '\u2622';
+
+            bool yes = true;
+            bool no = false;
             
             
 
@@ -35,6 +38,9 @@ namespace TiposVarios
             Console.WriteLine(noteSymbol);
             Console.WriteLine(recycleSymbol);
             Console.WriteLine(nuclearSymbol);
+
+            Console.WriteLine(yes);
+            Console.WriteLine(no);
 
         }
     }
