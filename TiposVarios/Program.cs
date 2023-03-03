@@ -13,6 +13,12 @@ namespace TiposVarios
             uint u = 14U;
             long l = 420L;
             ulong n = 2319UL;
+            sbyte s = 1;
+            short h = 2;
+            long q = 9;
+            byte b = 7;
+            ushort p = 3;
+
 
             char spadeSymbol = '\u2660';
             char starSymbol = '\u2605';
@@ -32,6 +38,11 @@ namespace TiposVarios
             Console.WriteLine(u);
             Console.WriteLine(l);
             Console.WriteLine(n);
+            Console.WriteLine(s);
+            Console.WriteLine(h);
+            Console.WriteLine(q);
+            Console.WriteLine(b);
+            Console.WriteLine(p);
 
             Console.WriteLine(spadeSymbol);
             Console.WriteLine(starSymbol);
