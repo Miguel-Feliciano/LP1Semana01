@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argumentos", "Argumentos\Argumentos.csproj", "{85EF59F8-5246-4C0D-AC2D-EFF532B403D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgInt2Hex", "ArgInt2Hex\ArgInt2Hex.csproj", "{CAAF49E6-4C20-4EA9-A5B9-24735B03F07F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{85EF59F8-5246-4C0D-AC2D-EFF532B403D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85EF59F8-5246-4C0D-AC2D-EFF532B403D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85EF59F8-5246-4C0D-AC2D-EFF532B403D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAF49E6-4C20-4EA9-A5B9-24735B03F07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF49E6-4C20-4EA9-A5B9-24735B03F07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF49E6-4C20-4EA9-A5B9-24735B03F07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF49E6-4C20-4EA9-A5B9-24735B03F07F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
